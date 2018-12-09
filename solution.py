@@ -1,6 +1,6 @@
 # 3 water jugs capacity -> (x,y,z) where x>y>z
-# initial state (12,0,0)
-# final state (6,6,0)
+# initial state (8,0,0)
+# final state (4,4,0)
 
 
 capacity = (8,5,3)
